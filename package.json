@@ -1,6 +1,6 @@
 {
   "name": "meteocontrol",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A javascript API wrapper for the meteocontrol VCOM REST API",
   "main": "index.js",
   "scripts": {
