@@ -54,7 +54,7 @@ yarn test
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/SovTech/meteocontrol/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -64,5 +64,5 @@ yarn test
 [npm-image]: https://img.shields.io/npm/v/meteocontrol.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/meteocontrol
 [npm-downloads]: https://img.shields.io/npm/dm/meteocontrol.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/sovtech/meteocontrol/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/sovtech/meteocontrol
+[travis-image]: https://img.shields.io/travis/SovTech/meteocontrol/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/SovTech/meteocontrol
