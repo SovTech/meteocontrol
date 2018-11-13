@@ -1,0 +1,13 @@
+{
+    "system": "S5EHJ",
+    "from": "2018-11-01T00:00:00+02:00",
+    "to": "2018-11-01T00:05:00+02:00",
+    "basicsAbbr": "M_AC_P",
+    "calculationsAbbr": "PR",
+    "inverter": "Id90163.1",
+    "inverterAbbr": "COS_PHI",
+    "meter": "140244",
+    "meterAbbr": "M_AC_E_IMP",
+    "sensor": "141444",
+    "sensorAbbr": "SRAD"
+}
